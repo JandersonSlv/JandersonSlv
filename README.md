@@ -8,7 +8,13 @@ Sou apaixonado por criar soluções tecnológicas completas. Tenho forte interes
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
+
+Tenho experiência e foco nas seguintes stacks de programação:
+
+* **Back-end & Banco de Dados:** Node.js, Java, PHP, Laravel, Python, SQL, MySQL.
+* **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Bootstrap, Tailwind, Sass.
+* **Ferramentas:** Git / GitHub.
 
 <img 
     align="left" 
