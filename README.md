@@ -13,10 +13,10 @@ Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de sof
 
 <p align="left">
   <a href="https://instagram.com/jandersonslv_">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/janderson-da-silva-4571602ab">
-    <img src="https://img.shields.io/badge/LinkedIn-Jandersn_da_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
