@@ -1,8 +1,10 @@
 ## Janderson da Silva 👨🏻‍💻
 
-**`Desenvolvedor FullStack | Processos e Negócios`**
+**`Desenvolvedor FullStack`**
 
-Me chamo Janderson da Silva, tenho 25 anos e sou natural da Bahia. Concluí o ensino médio no CEdMP, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na UCSAL. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Tenho 25 anos e sou natural da Bahia. Minha base técnica começou com a conclusão do curso técnico em Análise e Desenvolvimento de Sistemas no CEdMP e, atualmente, estou aprofundando meus conhecimentos cursando **Engenharia de Software na UCSAL**.
+
+Sou apaixonado por criar soluções tecnológicas completas. Tenho forte interesse em otimizar **processos e negócios** por meio do desenvolvimento de sistemas, atuando desde a modelagem de dados no back-end até a construção de interfaces visuais no front-end.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
