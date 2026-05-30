@@ -16,7 +16,7 @@ Também crio conteúdo e compartilho conhecimento sobre **desenvolvimento de sof
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/janderson-da-silva-4571602ab">
-    <img src="https://img.shields.io/badge/LinkedIn-janderson-da-silva-4571602ab?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jandersn_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
