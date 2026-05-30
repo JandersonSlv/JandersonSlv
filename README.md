@@ -154,12 +154,3 @@ Me chamo Janderson da Silva, tenho 25 anos e sou natural da Bahia. Concluí o en
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JandersonSlv&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JandersonSlv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
-</div>
-<br><br><br><br><br><br><br><br><br>
