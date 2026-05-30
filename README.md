@@ -41,6 +41,15 @@ Tenho experiência e foco nas seguintes stacks de programação:
 
 <img 
     align="left" 
+    alt="NodeJS" 
+    title="NodeJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
