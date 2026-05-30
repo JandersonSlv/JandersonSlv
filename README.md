@@ -4,7 +4,7 @@
 
 Tenho 25 anos e sou natural da Bahia. Minha trajetória na área de tecnologia começou com a formação técnica em **Desenvolvimento de Sistemas pelo SENAI CIMATEC** e, atualmente, estou cursando **Engenharia de Software na UCSAL**, buscando aprofundar continuamente meus conhecimentos em desenvolvimento, arquitetura de software e soluções tecnológicas.
 
-Sou apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes. Tenho grande interesse em otimizar processos e impulsionar negócios através do desenvolvimento de sistemas completos, atuando tanto no back-end, com modelagem de dados e regras de negócio, quanto no front-end, criando interfaces modernas, intuitivas e funcionais.
+Sou apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes. Tenho grande interesse em otimizar **processos e impulsionar negócios** através do desenvolvimento de sistemas completos, atuando tanto no back-end, com modelagem de dados e regras de negócio, quanto no front-end, criando interfaces modernas, intuitivas e funcionais.
 
 ---
 
