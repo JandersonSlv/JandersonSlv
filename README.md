@@ -1,14 +1,12 @@
 ## Janderson da Silva 👨🏻‍💻
 
-**Full Stack Developer | Software Engineering Student**
+**Full Stack Developer**
 
-I am a 25-year-old Software Engineering student at UCSAL with a technical background in Systems Development from SENAI CIMATEC. I am passionate about technology and software development, with a strong interest in building digital solutions that drive efficiency, innovation, and business growth.
+I am 25 years old and I am from Bahia. My journey in the technology field began with technical training in Systems Development from SENAI CIMATEC, and currently I am studying Software Engineering at UCSAL, continuously seeking to deepen my knowledge in development, software architecture, and technological solutions.
 
-Through academic, professional, and personal projects, I have gained experience in web application development, API integration, database modeling, and full-stack solutions. I enjoy working across both back-end and front-end technologies, transforming ideas into scalable, user-focused applications.
+I am passionate about technology and transforming ideas into efficient digital solutions. I have a strong interest in optimizing processes and boosting businesses through the development of complete systems, working both on the back-end, with data modeling and business rules, and on the front-end, creating modern, intuitive, and functional interfaces.
 
-Driven by curiosity and continuous learning, I am constantly expanding my knowledge in software architecture, modern development practices, cloud technologies, and emerging trends in the tech industry. I believe that collaboration, adaptability, and innovation are key to creating impactful solutions and achieving professional growth.
-
-📧 **Contact:** your-email@example.com
+📧 **Contact:** janderson.silva0772@gmail.com
 
 ---
 
