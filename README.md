@@ -1,16 +1,20 @@
 ## Janderson da Silva 👨🏻‍💻
 
-**`Desenvolvedor FullStack`**
+**Full Stack Developer | Software Engineering Student**
 
-Tenho 25 anos e sou natural da Bahia. Minha trajetória na área de tecnologia começou com a formação técnica em **Desenvolvimento de Sistemas pelo SENAI CIMATEC** e, atualmente, estou cursando **Engenharia de Software na UCSAL**, buscando aprofundar continuamente meus conhecimentos em desenvolvimento, arquitetura de software e soluções tecnológicas.
+I am a 25-year-old Software Engineering student at UCSAL with a technical background in Systems Development from SENAI CIMATEC. I am passionate about technology and software development, with a strong interest in building digital solutions that drive efficiency, innovation, and business growth.
 
-Sou apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes. Tenho grande interesse em otimizar **processos e impulsionar negócios** através do desenvolvimento de sistemas completos, atuando tanto no back-end, com modelagem de dados e regras de negócio, quanto no front-end, criando interfaces modernas, intuitivas e funcionais.
+Through academic, professional, and personal projects, I have gained experience in web application development, API integration, database modeling, and full-stack solutions. I enjoy working across both back-end and front-end technologies, transforming ideas into scalable, user-focused applications.
+
+Driven by curiosity and continuous learning, I am constantly expanding my knowledge in software architecture, modern development practices, cloud technologies, and emerging trends in the tech industry. I believe that collaboration, adaptability, and innovation are key to creating impactful solutions and achieving professional growth.
+
+📧 **Contact:** your-email@example.com
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Languages & Technologies
 
-Tenho experiência e foco nas seguintes stacks de programação:
+I have experience working with the following technologies:
 
 <img 
     align="left" 
