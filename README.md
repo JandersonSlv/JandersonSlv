@@ -6,8 +6,6 @@ I am 25 years old and I am from Bahia. My journey in the technology field is roo
 
 I am a professional with 6 years of solid experience in business and process support operations, highlighting a strong track record in academic organization, resource management, and procurement planning within the education and tech sectors. With practical expertise in backend web development (Express.js, SQL databases), software testing (QA) methodologies, and hardware maintenance, I seek to apply my systems thinking and problem-solving skills to tackle new challenges in the technology industry.
 
-I am passionate about technology and transforming ideas into efficient digital solutions. I have a strong interest in optimizing processes and boosting businesses through the development of complete systems, working both on the back-end, with data modeling and business rules, and on the front-end, creating modern, intuitive, and functional interfaces.
-
 📧 **Contact:** janderson.silva0772@gmail.com
 
 ---
